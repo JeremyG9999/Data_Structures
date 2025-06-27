@@ -5,19 +5,19 @@ Useful for learning, practicing, or building a deeper understanding of core comp
 
 ## ✨ Features
 
-- 🔗 **Linked List**
+- 🔗 **Linked List**  
   Singly linked list with insert/delete/traverse  
 
-- 🔁 **Doubly Linked List**
+- 🔁 **Doubly Linked List**  
   Forward/backward traversal, insertion, deletion  
 
-- 📦 **Stack**
+- 📦 **Stack**  
   LIFO structure using Python lists  
 
-- 📬 **Queue**
+- 📬 **Queue**  
   FIFO structure using Python lists  
   
-- 🌳 **Binary Tree**
+- 🌳 **Binary Tree**  
   Insert, search, and traversals (in-order, pre-order, post-order)  
 
 ## 🚀 Getting Started
